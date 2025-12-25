@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "40120422208",
+    "project_id": "lifehub-2615a",
+    "storage_bucket": "lifehub-2615a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40120422208:android:a22f0f377fd1d3d766b4a5",
+        "android_client_info": {
+          "package_name": "com.example.life_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40120422208-0p809262ubrmfkva23obt1mn26pbpaia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.life_hub",
+            "certificate_hash": "da19f733371a4204d47fa1427670959a007cb9d4"
+          }
+        },
+        {
+          "client_id": "40120422208-6pgmttp5tuqns8us9m62e9m66n33c8gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQbTsst7DE18a9KXTeZtW9I5GWwgiyw2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40120422208-6pgmttp5tuqns8us9m62e9m66n33c8gi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40120422208-balu2uuvkds4cmb8a8he0vrekdblo0ae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lifeHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
